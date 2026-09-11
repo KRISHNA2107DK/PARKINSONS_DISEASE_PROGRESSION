@@ -111,8 +111,8 @@ See [`docs/LIMITATIONS.md`](docs/LIMITATIONS.md) for the full list. Headline:
 
 ## Citation
 
-Manuscript in preparation for *npj Parkinson's Disease*. Please cite the preprint (to be posted)
-and acknowledge PPMI (Michael J. Fox Foundation).
+Manuscript in preparation. A preprint and citation will be added here upon posting.
+Data acknowledgment: Parkinson's Progression Markers Initiative (PPMI), Michael J. Fox Foundation.
 
 ## License
 
