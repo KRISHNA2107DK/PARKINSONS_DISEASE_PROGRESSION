@@ -1,7 +1,5 @@
-# BrainFormer-PD v2.1 — Paper Positioning (npj PD / JPD / MedIA)
+# BrainFormer-PD v2.1 — Paper Positioning
 
-**Target venue (primary):** npj Parkinson's Disease (Nature PG, IF ≈ 9.0, SCOPUS Q1).
-**Fallbacks:** Journal of Parkinson's Disease (IOS, IF ≈ 4.8, Q2); Medical Image Analysis or IEEE TMI if reframed as methods.
 **Data:** 8,453 real PPMI subjects (BRAAK_PD/BRAAK_PD/) with the dataset's own 70/15/15 splits (5,915 / 1,267 / 1,268). V06 UPDRS-III as target for regression; BL/V02/V04 as input. No synthetic fallback used.
 
 ---

@@ -17,7 +17,7 @@ Parkinson's disease progression modelling on PPMI.
 
 ## Paper positioning and caveats
 
-- [`PAPER_POSITIONING.md`](PAPER_POSITIONING.md) — abstract, narrative, claim disposition for submission to **npj Parkinson's Disease** (primary target).
+- [`PAPER_POSITIONING.md`](PAPER_POSITIONING.md) — abstract, narrative, and claim disposition for manuscript preparation.
 - [`CAVEATS_AND_CLAIMS.md`](CAVEATS_AND_CLAIMS.md) — claim-by-claim KEEP / DROP / REFRAME audit.
 
 ## Quick start
