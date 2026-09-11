@@ -1,0 +1,14 @@
+# Python 3.11
+# For RTX 50-series / Blackwell (sm_120), install torch separately:
+#   pip install --pre torch --index-url https://download.pytorch.org/whl/nightly/cu128
+# For pre-Blackwell GPUs, a stable torch 2.6+ with cu124 will work instead.
+
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+scikit-learn>=1.5
+xgboost>=3.0
+tqdm>=4.66
+matplotlib>=3.9
+seaborn>=0.13
+# torch is installed separately — see note above.

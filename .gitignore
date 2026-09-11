@@ -1,0 +1,12 @@
+BRAAK_PD/
+RESULTS_LOCAL/
+RESULTS_EXTERNAL/
+DELIVERABLES/
+external/
+overleaf/
+*.zip
+*.pkl
+*.log
+__pycache__/
+*.pyc
+validate_external.py
